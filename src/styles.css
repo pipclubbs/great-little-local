@@ -1,5 +1,9 @@
 h1 {
   font-family: "Sue Ellen Francisco", cursive;
-  font-size: 100px;
-  color: red;
+  font-size: 60px;
+  color: #654062;
+}
+
+.container {
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
